@@ -18,3 +18,6 @@ int main() {
     float area2;
     float pib2;
     int pontosTuristicos2;
+
+    return 0;
+}
